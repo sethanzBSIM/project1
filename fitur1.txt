@@ -1,1 +1,2 @@
 inisialisasi fitur1
+menambahkan value fitur1
